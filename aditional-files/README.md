@@ -6,4 +6,6 @@
   <li>mail sender</li>
   <li>autotyping</li>
   <li>youtube search</li>
+  <li>google search</li>
+  <li>module installer</li>
 </ol>
