@@ -2,7 +2,7 @@
 
 ![1](https://github.com/user-attachments/assets/18300ac6-498b-42c7-802a-b73fc5253c4b)
 
-<h3>Libraries</h3>
+<h3>Libraries Used in this project</h3>
 <ul>
   <li>ttkbootstrap</li>
   <li>tkinter</li>
