@@ -2,6 +2,15 @@
 
 ![1](https://github.com/user-attachments/assets/18300ac6-498b-42c7-802a-b73fc5253c4b)
 
+
+
+
+
+![Phone Number Info](https://github.com/user-attachments/assets/caa21fa1-88b1-4ff8-8f2e-05f04c07d880)
+
+
+
+
 <h3>Libraries Used in this project</h3>
 <ul>
   <li>ttkbootstrap</li>
